@@ -24,6 +24,13 @@ A prototype appointment and customer management system for small businesses.
 
 \- `frontend/` -> React frontend
 
+\## Requirements
+
+.NET SDK
+
+Node.js
+
+SQL Server Express / LocalDB
 
 
 \## Run Backend
@@ -40,11 +47,5 @@ npm install
 
 npm run dev
 
-\## Requirements
 
-.NET SDK
-
-Node.js
-
-SQL Server Express / LocalDB
 
