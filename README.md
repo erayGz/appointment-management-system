@@ -40,3 +40,11 @@ npm install
 
 npm run dev
 
+\## Requirements
+
+.NET SDK
+
+Node.js
+
+SQL Server Express / LocalDB
+
